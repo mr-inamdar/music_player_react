@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/musiq_player_react/static/css/main.b3fd7423.css",
-    "main.js": "/musiq_player_react/static/js/main.5de14277.js",
+    "main.css": "/musiq_player_react/static/css/main.c6b7d790.css",
+    "main.js": "/musiq_player_react/static/js/main.ed5acdad.js",
     "static/js/453.25946257.chunk.js": "/musiq_player_react/static/js/453.25946257.chunk.js",
     "static/media/bg.jpg": "/musiq_player_react/static/media/bg.6871a9506922f537ebbb.jpg",
     "index.html": "/musiq_player_react/index.html",
-    "main.b3fd7423.css.map": "/musiq_player_react/static/css/main.b3fd7423.css.map",
-    "main.5de14277.js.map": "/musiq_player_react/static/js/main.5de14277.js.map",
+    "main.c6b7d790.css.map": "/musiq_player_react/static/css/main.c6b7d790.css.map",
+    "main.ed5acdad.js.map": "/musiq_player_react/static/js/main.ed5acdad.js.map",
     "453.25946257.chunk.js.map": "/musiq_player_react/static/js/453.25946257.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b3fd7423.css",
-    "static/js/main.5de14277.js"
+    "static/css/main.c6b7d790.css",
+    "static/js/main.ed5acdad.js"
   ]
 }
