@@ -23,12 +23,6 @@ const TRACKS = [
 		cover: './covers/4.jpg',
 		src: './songs/4.mp3',
 	},
-	// {
-	// 	title: 'Dilwa Ke Chor',
-	// 	artist: 'Swati Mishra',
-	// 	cover: './covers/5.jpg',
-	// 	src: './songs/5.mp3',
-	// },
 	{
 		title: 'KABHI AAYINE PE LIKHA TUJHE-HATE STORY 2',
 		artist: 'K.K., RASHID KHAN and TANVEER GHAZ',
