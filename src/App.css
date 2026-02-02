@@ -72,6 +72,9 @@ body {
 	font-size: 0.9rem;
 	color: #dddddd;
 	margin-bottom: 1rem;
+ overflow: hidden;
+ text-overflow: ellipsis;
+ text-wrap: nowrap;
 }
 
 .controls {
